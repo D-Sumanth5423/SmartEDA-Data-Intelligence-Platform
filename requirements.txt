@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+ydata-profiling
+supabase
+python-dotenv
+fpdf2
+groq
