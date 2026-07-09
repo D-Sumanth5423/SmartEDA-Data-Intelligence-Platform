@@ -10,6 +10,9 @@ SmartEDA is an interactive data analysis and machine learning web application bu
 
 The platform allows users to upload CSV datasets and automatically perform Exploratory Data Analysis (EDA), data quality checks, visualization, data cleaning, machine learning, clustering, and report generation.
 
+## 📸 Project Screenshot
+
+![SmartEDA Charts Dashboard](screenshots/charts.png)
 ---
 
 ## 🚀 Features
