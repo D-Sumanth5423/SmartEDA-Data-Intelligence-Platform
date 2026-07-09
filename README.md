@@ -1,5 +1,11 @@
 # 📊 SmartEDA – Data Intelligence Platform
 
+## 🚀 Live Demo
+
+Try SmartEDA here:
+
+https://smarteda-data-intelligence-platform-hslfdvipfdykbmdzq8tyoo.streamlit.app
+
 SmartEDA is an interactive data analysis and machine learning web application built using Python and Streamlit.
 
 The platform allows users to upload CSV datasets and automatically perform Exploratory Data Analysis (EDA), data quality checks, visualization, data cleaning, machine learning, clustering, and report generation.
